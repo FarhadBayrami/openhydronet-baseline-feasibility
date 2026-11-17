@@ -1,0 +1,13 @@
+
+# added before first push
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+Thumbs.db
+data/raw_hydrosheds/
+data/tiles_5deg/
+.venv/
+flood-forecasting/
