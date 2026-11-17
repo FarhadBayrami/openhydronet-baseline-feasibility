@@ -1,0 +1,94 @@
+{
+  "outlet_sensitivity_km2": {
+    "-2": 1059.4,
+    "-1": 1055.5,
+    "0": 1054.0,
+    "1": 1053.0,
+    "2": 1051.4,
+    "5": 1034.6,
+    "14": 982.4,
+    "15": 666.0
+  },
+  "tool_area_km2": 1050.1,
+  "reference_area_km2": 1053.0,
+  "geodesic_area_km2": 1055.9,
+  "geodesic_perimeter_km": 241.5,
+  "retrace_area_km2": 1054.0,
+  "iou_retrace_vs_polygon": 0.9998,
+  "cells": 171232,
+  "longest_flow_path_km": 85.7,
+  "main_stem_length_km": 84.2,
+  "basin_length_km": 65.4,
+  "mean_flow_distance_km": 47.8,
+  "gravelius_Kc": 2.096,
+  "circularity_Rc": 0.228,
+  "elongation_Re": 0.561,
+  "form_factor_Rf": 0.247,
+  "stream_threshold_km2": 1.0,
+  "max_strahler_order": 5,
+  "streams_per_order": [
+    261,
+    50,
+    11,
+    3,
+    1
+  ],
+  "length_per_order_km": [
+    286.7,
+    156.1,
+    99.3,
+    56.7,
+    34.5
+  ],
+  "bifurcation_ratio": 4.11,
+  "drainage_density_km_per_km2": 0.601,
+  "drainage_density_vs_threshold": {
+    "0.1": 1.918,
+    "0.25": 1.191,
+    "0.5": 0.859,
+    "1.0": 0.601,
+    "2.0": 0.444,
+    "5.0": 0.31,
+    "10.0": 0.242,
+    "25.0": 0.167,
+    "50.0": 0.129
+  },
+  "tributaries_ge_20km2": [
+    {
+      "area": 315.4341,
+      "dist": 14.2875,
+      "lat": 44.3854,
+      "lon": 11.2438
+    },
+    {
+      "area": 143.4351,
+      "dist": 43.1489,
+      "lat": 44.2279,
+      "lon": 11.0629
+    },
+    {
+      "area": 85.0816,
+      "dist": 53.5653,
+      "lat": 44.1796,
+      "lon": 10.9812
+    },
+    {
+      "area": 51.5788,
+      "dist": 34.4068,
+      "lat": 44.2821,
+      "lon": 11.1163
+    },
+    {
+      "area": 44.4565,
+      "dist": 59.7568,
+      "lat": 44.1321,
+      "lon": 10.9946
+    },
+    {
+      "area": 23.5993,
+      "dist": 24.2826,
+      "lat": 44.3287,
+      "lon": 11.1879
+    }
+  ]
+}
